@@ -14,15 +14,15 @@ En introduktionsuppgift där du kommer lära dig att bygga ett projekt med Vites
 
 Du har fria händer men försök hålla det till en småskalig app där du åtminstone kan bygga en MVP (Minimum viable product) inom loppet av två veckor. Använd dig av sidor som [dribbble](https://dribbble.com/)
 
-## ‼️ Förslag
+### ‼️ Förslag
 
-### En todo-lista
+### Todo-lista
 
 En klassiker av en anledning. Det är ett utmärkt sätt att bekanta sig med React och få övning i webbutveckling i allmänhet. Den kan också byggas vidare med möjlighet att lägga till egna todos, implementera drag & drop-funktionalitet m.m.
 
 [Designexempel](https://dribbble.com/shots/26627635-Simple-To-Do-List-Mobile-App)
 
-## Scorekeeper/Leaderboard
+### Scorekeeper/Leaderboard
 
 En bra introduktion till statehantering om du bygger in filtreringsfunktionalitet eller möjlighet till att uppdatera poäng/plats på leaderboarden.
 
